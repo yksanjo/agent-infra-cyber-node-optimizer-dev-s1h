@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-cyber-node-optimizer-dev-s1h",
+  "version": "1.0.0",
+  "description": "Deployment and CI/CD automation",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "cyber-node-optimizer-dev-s1h"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-cyber-node-optimizer-dev-s1h.git"
+  }
+}
